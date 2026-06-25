@@ -1,0 +1,21 @@
+﻿# Build and Output
+target/
+build/
+dist/
+out/
+node_modules/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.iml
+
+# Logs and Environment
+*.log
+.env*
+*.key
+*.pem
+
+# OS-specific Junk
+.DS_Store
+Thumbs.db
